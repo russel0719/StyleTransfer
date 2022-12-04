@@ -7,7 +7,5 @@
 
   add Season Style Images to /data/ in format 'spring, summer, fall, winter'
 
-3. Train / Test
-
-  You can run train or test code via both .ipynb and .py
-  .py file need to set hyperparameters
+reference
+https://github.com/hoya012/fast-style-transfer-tutorial-pytorch/blob/master/Fast-Style-Transfer-PyTorch.ipynb
