@@ -8,4 +8,5 @@
   add Season Style Images to /data/ in format 'spring, summer, fall, winter'
 
 reference
-https://github.com/hoya012/fast-style-transfer-tutorial-pytorch/blob/master/Fast-Style-Transfer-PyTorch.ipynb
+
+  https://github.com/hoya012/fast-style-transfer-tutorial-pytorch/blob/master/Fast-Style-Transfer-PyTorch.ipynb
