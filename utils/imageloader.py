@@ -36,8 +36,7 @@ def crop_and_resize_images(raw_images):
     return images
 
 
-def load_images(path, season, batch_size):
+def load_images(path, season):
     raw_images = load_images_from_folder(path+season)
     crop_images = crop_and_resize_images(raw_images)
-    x = crop_images.repeat(batch_size, 1, 1, 1)
-    return x
+    return crop_images
