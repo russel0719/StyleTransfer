@@ -7,6 +7,10 @@
 
   add Season Style Images to /data/ in format 'spring, summer, fall, winter'
 
+3. Add test image
+
+  add test image to /data/test folder
+
 reference
 
   https://github.com/hoya012/fast-style-transfer-tutorial-pytorch/blob/master/Fast-Style-Transfer-PyTorch.ipynb
