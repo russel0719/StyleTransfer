@@ -56,7 +56,7 @@ class TransformerNet(nn.Module):
         # Decoder Layers
         self.decoder = nn.Sequential()
 
-        self.decoder.add_module('deconv1', ConvLayer(32, 3, kernel_size=9, stride=1))
+        self.decoder.add_module('deconv3', ConvLayer(32, 3, kernel_size=9, stride=1))
 
 
     def forward(self, x):
